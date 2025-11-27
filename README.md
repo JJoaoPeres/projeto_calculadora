@@ -1,7 +1,8 @@
 # projeto_calculadora
 
-Resultado primeiro código (sem fatoração)
-<img width="881" height="231" alt="image" src="https://github.com/user-attachments/assets/b3fe3dd1-3519-4f78-bd40-0fb85c56a87a" />
+Resultado segundo código (fatoração)
+<img width="888" height="196" alt="image" src="https://github.com/user-attachments/assets/a04f427f-a41d-4f3a-ac21-1d8866d7fa08" />
+
 
 Resultado código refatorado
 
